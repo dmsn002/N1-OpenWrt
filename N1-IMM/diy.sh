@@ -20,6 +20,7 @@ git clone --depth 1 https://github.com/jerrykuku/luci-app-argon-config package/l
 git clone --depth 1 https://github.com/ophub/luci-app-amlogic package/amlogic
 #git clone --depth 1 https://github.com/sirpdboy/luci-app-ddns-go package/ddnsgo
 git clone --depth 1 https://github.com/sbwml/luci-app-mosdns package/mosdns
+git clone --depth 1 https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
 #git clone --depth 1 https://github.com/sbwml/luci-app-alist package/alist
 #git clone --depth 1 https://github.com/xiaorouji/openwrt-passwall
 
